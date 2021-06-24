@@ -1,123 +1,140 @@
 
   .green{
     background-color:#00FF00;
-    height:10%;
-    width:5%;
+    height:33%;
+    width:33.5%;
     display:inline-block;
   }
   .red{
     background-color:#FF0000;
-    height: 10%;
-    width:5%;
+    height:33%;
+    width:33.5%;
     display:inline-block;
   }
   .blue{
     background-color:#0000FF;
-    height: 10%;
-    width:5%;
+    height: 33%;
+    width: 33.5%;
     display:inline-block;
   }
 
   .position11{
     position:absolute;
-    left:0px;
-    top:0px;
+    left:0;
+    top:0;
   }
   .position12{
     position:absolute;
-    left:5%;
-    top:0px;
+    left:33.5%;
+    top:0;
   }
   .position13{
     position:absolute;
-    left:10%;
-    top:0px;
+    left:67%;
+    top:0;
   }
-  .position14{
+  .position21{
     position:absolute;
-    left:15%;
-    top:0px;
+    left:0;
+    top:33%;
   }
-  .position15{
+  .position22{
     position:absolute;
-    left:20%;
-    top:0px;
+    left:33.5%;
+    top:33%;
   }
-  .position16{
+  .position23{
     position:absolute;
-    left:25%;
-    top:0px;
+    left:67%;
+    top:33%;
   }
-  .position17{
+  .position31{
     position:absolute;
-    left:30%;
-    top:0px;
+    left:0;
+    top:66%;
   }
-  .position18{
+  .position32{
     position:absolute;
-    left:35%;
-    top:0px;
+    left:33.5%;
+    top:66%;
   }
-  .position19{
+  .position33{
     position:absolute;
-    left:40%;
-    top:0px;
+    left:67%;
+    top:66%;
   }
-  .position10{
+
+  .papa1{
     position:absolute;
-    left:45%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:0;
+    left:0;
   }
-  .position115{
+  .papa2{
     position:absolute;
-    left:50%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:0;
+    left:33.5%;
   }
-  .position125{
+  .papa3{
     position:absolute;
-    left:55%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:0;
+    left:67%;
   }
-  .position135{
+
+  .papa4{
     position:absolute;
-    left:60%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:33%;
+    left:0;
   }
-  .position145{
+  .papa5{
     position:absolute;
-    left:65%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:33%;
+    left:33.5%;
   }
-  .position155{
+  .papa6{
     position:absolute;
-    left:70%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:33%;
+    left:67%;
   }
-  .position165{
+
+  .papa7{
     position:absolute;
-    left:75%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:66%;
+    left:0;
   }
-  .position175{
+  .papa8{
     position:absolute;
-    left:80%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:66%;
+    left:33.5%;
   }
-  .position185{
+  .papa9{
     position:absolute;
-    left:85%;
-    top:0px;
+    width:33.5%;
+    height:33.5%;
+    top:66%;
+    left:67%;
   }
-  .position195{
-    position:absolute;
-    left:90%;
-    top:0px;
-  }
-  .position105{
-    position:absolute;
-    left:95%;
-    top:0px;
-  }
+
+
+
+
+
+
 
   .rflicker{
     animation-name:redflicker;
