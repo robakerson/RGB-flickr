@@ -296,9 +296,9 @@ body{
     17% {background-color:grey;}
     18% {background-color:#AF0000;}
     19% {background-color:black;}
-    35% {background-color:#AF0000;}
+    35% {background-color:#7F0000;}
     45% {background-color:black;}
-    75% {background-color:#FF0000;}
+    95% {background-color:#FF0000;}
   }
   .gflicker{
     animation-name:greenflicker;
@@ -316,7 +316,7 @@ body{
     19% {background-color:black;}
     35% {background-color:#00AF00;}
     45% {background-color:black;}
-    75% {background-color:#00FF00;}
+    55% {background-color:#00FF00;}
   }
   .bflicker{
     animation-name:blueflicker;
